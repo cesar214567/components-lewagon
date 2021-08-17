@@ -1,0 +1,43 @@
+.container{ 
+    width: 700px;
+    margin: 0 auto;
+}
+@media (max-width:960px) {
+    .container{
+        width: 700px;
+    }
+}
+@media (max-width:740px) {
+    .container{
+        width: 500px;
+    }
+}
+@media (max-width:960px) {
+    .container{
+        width: 300px;
+    }
+}
+
+.container-father{
+    display: flex;
+    width: 90vw;
+    height: 40vh;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: grey;
+    margin: 100px auto;
+    flex-wrap: wrap;
+}
+.container-father .item {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+.container-father .item2 {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    flex-grow: 1;
+}
