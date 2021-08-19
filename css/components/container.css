@@ -1,22 +1,8 @@
 .container{ 
-    width: 700px;
+    width: 100%;
     margin: 0 auto;
 }
-@media (max-width:960px) {
-    .container{
-        width: 700px;
-    }
-}
-@media (max-width:740px) {
-    .container{
-        width: 500px;
-    }
-}
-@media (max-width:960px) {
-    .container{
-        width: 300px;
-    }
-}
+
 
 .container-father{
     display: flex;

@@ -1,0 +1,22 @@
+@media (max-width:960px) {
+    .container{
+        width: 700px;
+        margin-left: 0px;
+    }
+    .page-content{ 
+        margin: 0px ;
+    }
+    .sidebar{
+        display:none
+    }
+}
+@media (max-width:740px) {
+    .container{
+        width: 500px;
+    }
+}
+@media (max-width:960px) {
+    .container{
+        width: 300px;
+    }
+}
