@@ -1,11 +1,50 @@
 .banner{
-    background-image: linear-gradient(315deg,rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.2) 80%),url("../../images/megaman.png");
-    background-size: cover;
+    background-size: 100% 100%    ;
+    background-repeat: no-repeat;
     background-position: center center;
     padding: 40px ;
     color: white;
     height: 300px;
 }
+
+.megamanX{
+  background-image: linear-gradient(315deg,rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.2) 80%),url("../../images/megaman.png")
+}
+.megamanX2{
+  background-image: linear-gradient(315deg,rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.2) 80%),url("../../images/megaman2.jpeg")
+}
+.megamanX3{
+  background-image: linear-gradient(315deg,rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.2) 80%),url("../../images/megaman3.jpeg")
+}
+.megamanX4{
+  background-image: linear-gradient(315deg,rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.2) 80%),url("../../images/megaman4.jpg")
+}
+.megamanX5{
+  background-image: linear-gradient(315deg,rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.2) 80%),url("../../images/megaman5.jpg")
+}
+.megamanX6{
+  background-image: linear-gradient(315deg,rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.2) 80%),url("../../images/megaman6.jpeg")
+}
+.gdarius{
+  background-image: linear-gradient(315deg,rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.2) 80%),url("../../images/gdarius.jpeg")
+}
+.megaman8{
+  background-image: linear-gradient(315deg,rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.2) 80%),url("../../images/megaman8.jpeg")
+}
+.metalslugX{
+  background-image: linear-gradient(315deg,rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.2) 80%),url("../../images/metalslugX.png")
+}
+.bloodyroar{
+  background-image: linear-gradient(315deg,rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.2) 80%),url("../../images/bloodyroar.jpeg")
+}
+.bloodyroar2{
+  background-image: linear-gradient(315deg,rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.2) 80%),url("../../images/bloodyroar2.jpg")
+}
+.digimonrumblearena{
+  background-image: linear-gradient(315deg,rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.2) 80%),url("../../images/digimonrumblearena.png")
+}
+
+
 .banner h1{
     font-size: 40px;
     font-weight: lighter;
