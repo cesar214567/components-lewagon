@@ -6,3 +6,16 @@
     padding: 10px 40px;
     border-radius: 10px;
 }
+.btn-headers{
+    background-color: #b6b4b4;
+    width: 290px;
+    height: 30px  ;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 30px ;
+    margin: 0px;
+}
+
+.btn-headers:hover{
+  background-color: #adabab;
+}

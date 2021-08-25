@@ -17,7 +17,7 @@ const cargarJuegos = () =>{
   juegos.forEach( juego =>{
 
 
-    headers.append(`<li><a href="${juego}.html">${juego}</a></li>`)
+    headers.append(`<li class="btn-headers"><a href="${juego}.html" >${juego}</a></li>`)
     banners.append(`<div class=" ${juego} banner" >
             <div class="container">
                 <h1>${juego} </h1>
