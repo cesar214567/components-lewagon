@@ -39,7 +39,7 @@ $(document).on("click", ".btn-headers a", function (e) {
   const url = juegosMap[juego];
 
   $("#banners").html(`
-    <div class="centered">
+    <div class="">
       <iframe
         src="${url}"
         width="960"
