@@ -1,7 +1,7 @@
 // Mapa: nombre del juego -> URL de retrogames
 const juegosMap = {
   megaman8: "https://www.retrogames.cc/embed/40233-mega-man-8.html",
-  megamanX: "https://www.retrogames.cc/embed/40191-mega-man-x.html",
+  megamanX: "https://www.retrogames.cc/snes-games/megaman-x-usa.html",
   megamanX2: "https://www.retrogames.cc/embed/40192-mega-man-x2.html",
   megamanX3: "https://www.retrogames.cc/embed/40193-mega-man-x3.html",
   megamanX4: "https://www.retrogames.cc/embed/40194-mega-man-x4.html",
